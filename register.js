@@ -1,3 +1,3 @@
 ﻿function register(login, password){
-	return "Account was created";
+	return "Account was registered";
 }
